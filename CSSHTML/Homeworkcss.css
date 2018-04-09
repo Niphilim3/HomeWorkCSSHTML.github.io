@@ -1,0 +1,22 @@
+body{
+    background:#e9e8e4;
+}
+header{
+    display: block;
+}
+
+.head .Open_Sans{
+    font-family: "Proxima Nova";
+}
+
+.bar{
+font-size: 18px;
+letter-spacing: 0px;
+line-height: 87px;
+color: rgb(102,122,144);
+font-family: "Open Sans";
+font-weight: bold;
+text-align: center;
+}
+
+
